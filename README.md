@@ -7,3 +7,4 @@ Simply enter a username into the search input and if the user exists it will tak
 You can type in `BFY Meowington` to try it out.
 
 ## LINK
+**https://league-stats-client.herokuapp.com/**
